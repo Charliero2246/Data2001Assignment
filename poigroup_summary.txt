@@ -1,0 +1,124 @@
+
+POIGroup 1 — Top 10 POITypes:
+poitype
+Place Of Worship            701
+Community Facility          393
+Post Office                 162
+Nursing Home                144
+Community Medical Centre    100
+Embassy                      92
+Shopping Centre              86
+Homestead                    80
+Retirement Village           77
+Library                      68
+Child Care Centre            66
+Firestation - Bush           65
+General Hospital             64
+Fire Station                 52
+Cemetery                     47
+Museum                       46
+Court House                  43
+Police Station               38
+Ambulance Station            28
+SES Facility                 23
+
+POIGroup 2 — Top 10 POITypes:
+poitype
+Primary School                       393
+High School                          184
+Special School                        65
+Combined Primary-Secondary School     57
+Preschool                             44
+University                            38
+Technical College                     24
+Academy                                4
+Research Station                       2
+
+POIGroup 3 — Top 10 POITypes:
+poitype
+Park                      3093
+Sports Field               646
+Sports Court               423
+Club                       184
+Historic Site              146
+Picnic Area                 66
+Sports Centre               63
+Swimming Pool Facility      59
+Monument                    53
+Golf Course                 50
+Tourist Attraction          27
+Athletics Track             22
+Lookout                     21
+Camping Ground              13
+Showground                   8
+Motor Racing Track           8
+Cycling Track                5
+BMX Track                    4
+Target Range                 4
+Dog Track                    3
+
+POIGroup 4 — Top 10 POITypes:
+poitype
+Roadside Emergency Telephone    843
+Wharf                           699
+Parking Area                    347
+Railway Station                 162
+Transport Interchange            25
+Helipad                          23
+Bus Interchange                  10
+Landing Ground                    9
+Roadside Rest Area                9
+Boat Ramp                         6
+Airport                           6
+Slipway                           4
+Marina                            4
+Launching Ramp                    1
+
+POIGroup 5 — Top 10 POITypes:
+poitype
+Sewage Works                   31
+Rubbish Depot                  19
+Pumping Station                16
+Filtration Plant               14
+Power Station - Fuel Driven     7
+Gas Facility                    2
+Transmission Station            1
+
+POIGroup 6 — Top 10 POITypes:
+poitype
+Manmade Waterbody      92
+Natural Waterbody      26
+Dam Wall               21
+Bay / Inlet / Basin    19
+Bay Like               11
+Swamp                   5
+Waterfall               2
+Beach                   1
+Island                  1
+Island Like             1
+
+POIGroup 7 — Top 10 POITypes:
+poitype
+Mountain Like          91
+Headland               21
+Headland Like           9
+Gap / Pass / Saddle     6
+Cave                    3
+Peninsula / Spit        2
+Plateau / Tableland     2
+Cliff                   2
+
+POIGroup 8 — Top 10 POITypes:
+poitype
+Suburb         247
+Urban Place     80
+Locality        40
+Village         20
+Rural Place     12
+City             7
+Town             5
+
+POIGroup 9 — Top 10 POITypes:
+poitype
+Quarry - Open Cut     15
+Mine - Underground    14
